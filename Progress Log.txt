@@ -1,0 +1,5 @@
+4/22/23
+  -Started
+  -Spent too much time re-learning Github and syncing with Replit
+  -Created RemindTimer function
+    -Used threaded timer from Python
